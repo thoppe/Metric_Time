@@ -1,5 +1,5 @@
-## *On the units of* **metric time** *the pragmatic* **PONG**
+## *On the units of* **METRIC TIME** *the pragmatic* **PONG**
 
-Travis Hoppe & Anna Sundborger
+#### Travis Hoppe & Anna Sundborger
 
 [View Proposal](http://thoppe.github.io/Metric_Time)
