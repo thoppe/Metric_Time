@@ -1,0 +1,65 @@
+body {
+/*
+	margin: 0;
+	padding: 0;
+*/
+	background: #F2F1ED;
+	color: #444;
+
+  font-family: 'Droid Sans', sans-serif;
+}
+
+
+/*
+#pong_header {
+    background: #ef4723;
+    padding: 100px 0; }
+*/
+
+#pong_header .text {
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 800px; }
+#pong_header .excerpt {
+    -moz-column-count: 2;
+    -moz-column-gap: 50px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 50px; }
+#pong_header h1 {
+    color: #222;
+    font: 800 64px/64px "open sans";
+    margin: 0 0 32px 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 800px; 
+    letter-spacing: -2px;
+}
+#pong_header h1 span {
+    letter-spacing: 0px;
+    font: 400 60px/60px "gentium book basic";
+    font-style: italic;
+    text-transform: none; 
+}
+#pong_header h1 span.kern {
+    margin: 0 -4px 0 00px; }
+
+#pong_header h2 {
+    border-top: 1px solid #222222;
+    color: #222;
+    font: 800 20px/20px "open sans";
+    margin: 0 0 20px 0;
+    text-align: center;
+    text-transform: uppercase; }
+
+#pong_header h2 span {
+    background: #222;
+    color:#E5CACA;
+    padding: 0 20px;
+    position: relative;
+    top: -10px; 
+}
+
+#pong_header p {
+    color: #222;
+    font: 400 16px/24px "gentium book basic";
+    margin: 0; }
