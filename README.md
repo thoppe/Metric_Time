@@ -1,7 +1,5 @@
-On the units of
-Metric time
-the pragmatic Pong
+## *On the units of* **metric time** *the pragmatic* **PONG**
 
-by: Travis Hoppe & Anna Sundborger
+Travis Hoppe & Anna Sundborger
 
-[Link](http://thoppe.github.io/Metric_Time)
+[View Proposal](http://thoppe.github.io/Metric_Time)
