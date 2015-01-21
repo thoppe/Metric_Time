@@ -1,19 +1,12 @@
 body {
-/*
-	margin: 0;
-	padding: 0;
-*/
 	background: #F2F1ED;
 	color: #444;
-
-  font-family: 'Droid Sans', sans-serif;
 }
 
 
-/*
-#pong_header {
-    background: #ef4723;
-    padding: 100px 0; }
+/* CSS Inspired by:
+http://hellohappy.org/beautiful-web-type/
+https://github.com/ubuwaits/beautiful-web-type
 */
 
 #pong_header .text {
@@ -63,3 +56,8 @@ body {
     color: #222;
     font: 400 16px/24px "gentium book basic";
     margin: 0; }
+
+#pong_header #author-line a{
+    color: inherit;
+    text-decoration: none;
+}
